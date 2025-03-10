@@ -30,7 +30,7 @@ public class Store {
     public static ArrayList <Employee> tryReadFile() throws FileNotFoundException{
         ArrayList <Employee> employeeList = new ArrayList<>();
         File file = new File("rombt.txt");
-        try(Scanner fileScanner = new Scanner(file)){
+        try(Scanner fileScanner = new Scanner(file,"utf-8")){
             while (fileScanner.hasNext()) {
                 String line = fileScanner.nextLine();
                 String[] lineSp = line.split(":");

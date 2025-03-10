@@ -9,6 +9,7 @@
 */
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.time.LocalDate;
 import java.util.ArrayList;
 
@@ -75,7 +76,8 @@ public class Solution {
         }
         System.out.println(counter + " dolgozónak van 200 000 alatti fizetése.");
 
-        FileWriter writer = new FileWriter("task03.txt");
+        FileWriter writer = new FileWriter("task03.txt",
+        Charset.forName("utf8"));
 
         writer.write(counter + " dolgozónak van 200 000 alatti fizetése.");
 
