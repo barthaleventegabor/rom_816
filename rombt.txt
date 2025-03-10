@@ -1,0 +1,32 @@
+Kiss Tamás:Budapest:Laskó utca 79:1988-06-12:520000
+Róka Zoltán:Szolnok:Erdőszél köz 72:1988-07-26:130000
+Vitéz Tamás:Miskolc:Kolbányi Géza utca 110:1975-01-7:610000
+Bodnár József:Győr:Botond vezér utca 78:1964-01-13:170000
+Almási Ferenc:Győr:Kosárka sétány 47:1974-07-25:100000
+Bakos Tibor:Győr:Liptó utca 22:1965-04-2:40000
+Takács Dániel:Szolnok:Zöldmáli lejtő 24:1967-04-25:740000
+Bakos Tibor:Szolnok:Kápolna tér 5:1955-08-21:430000
+Szalai Zoltán:Szeged:Ürömi utca 47:1971-03-13:730000
+Illés József:Szeged:Réce utca 5:1981-01-5:700000
+Fehér Károly:Nyíregyháza:Sáv utca 38:1972-05-9:670000
+Gyenge Zoltán:Miskolc:Nyuszt utca 56:1974-03-20:230000
+Vitéz László:Győr:Zeke utca 69:1978-04-22:430000
+Takács Géza:Nyíregyháza:Szerémi sor 105:1969-01-26:780000
+Pintér Ferenc:Győr:Tisza utca 76:1984-07-16:690000
+Szalai Ferenc:Szeged:Beretke utca 65:1961-04-21:340000
+Takács Géza:Nyíregyháza:Vígszínház utca 22:1986-07-18:20000
+Varga György:Miskolc:Bihari utca 70:1988-01-7:440000
+Takács Károly:Hatvan:Dettai utca 7:1969-08-11:20000
+Horváth Zoltán:Szeged:Tenkes utca 70:1958-11-6:160000
+Varga József:Szolnok:Királyi Pál utca 54:1984-08-7:120000
+Erdős József:Szolnok:Harmincad utca 117:1951-05-1:630000
+Fényes Lajos:Szeged:Dagály utca 12:1989-05-15:10000
+Varga László:Nyíregyháza:Hektár utca 23:1974-05-21:230000
+Varga Ferenc:Szolnok:Kaptár utca 118:1959-09-19:160000
+Nagy László:Hatvan:Varannó utca 2:1978-10-17:20000
+Bakos György:Budapest:Pusztakamarás utca 117:1965-08-6:80000
+Erős Zoltán:Budapest:Pál apostol dűlő 29:1960-06-12:10000
+Kis László:Nyíregyháza:Nádaspart utca 106:1988-06-12:370000
+Budai József:Szolnok:Róna utca 98:1965-03-16:470000
+Pintér György:Szeged:Nagy Imre tér 76:1959-05-9:180000
+Bogdán Dániel:Miskolc:Temetőkert utca 90:1969-05-11:260000
