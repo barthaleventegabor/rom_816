@@ -7,6 +7,8 @@
 * Github: https://github.com/barthaleventegabor/
 * Licenc: MIT
 */
+import java.io.FileWriter;
+import java.io.IOException;
 import java.time.LocalDate;
 import java.util.ArrayList;
 
@@ -54,6 +56,15 @@ public class Solution {
     }
 
     public static void task03(ArrayList <Employee> employeeList){
+        try {
+            tryTask03(employeeList);
+        } catch (IOException e) {
+            System.err.println("Hiba a fájlba íráskor!");
+            e.getMessage();
+        }
+    }
+
+    public static void tryTask03(ArrayList <Employee> employeeList)throws IOException{
 
         Integer counter = 0;
         for(Employee dol : employeeList){
@@ -63,6 +74,12 @@ public class Solution {
 
         }
         System.out.println(counter + " dolgozónak van 200 000 alatti fizetése.");
+
+        FileWriter writer = new FileWriter("task03.txt");
+
+        writer.write(counter + " dolgozónak van 200 000 alatti fizetése.");
+
+        writer.close();
 
         
     }
